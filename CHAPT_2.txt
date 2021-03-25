@@ -1,0 +1,22 @@
+2.1) Some factors a purchers of a tire for a car may consider size/material/tread/cost/lifespan
+Some factors a test would consider are size/material/internal construction/tread/weight
+Some factors a parent making a swing may consider are size/material/internal constuction/weight
+
+2.2) You probably would be intrested in color/cost/stiffness/avaliability/strength/ strech resietance
+
+2.3)    a) transatlantic: saltwater resistance/strech/cost/availability/strength/lifespan
+	b) Art: cost/availabilty/size/weight
+	c) Airplane: fire resistance/cost/availabilty/weight
+	d) bird feeder: strength/weight/cost/availability
+	e) piano: insulation striping/strength/strech/cost/availability
+	f) filiment: stifness/fire/strip
+
+2.4) While designing a system that transfers files from one computer to another over the phone important charateristics are noise/speed/database/flow/file/Math
+
+2.5)    a) Thermal/force
+	b) density
+	c) thermal/fluid
+	d) motion
+	e) force/heat
+
+2.6) All of the chraeteristics would be important to a chess playing computer.(interface/repersentation/considering possible movea/accepting legal moves)
