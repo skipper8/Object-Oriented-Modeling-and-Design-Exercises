@@ -19,3 +19,15 @@
 	c) caller, time, message
 	d) Casset
 	e) customer, pay, item, time, order #
+
+1.7)    a) Variable-length array:
+		copy, count, delete, index, insert
+	b) Symbole table:
+		append, copy, count, delete, intersect, update
+
+1.8)    a) lenses
+	b) useful to plumber
+ 	c) transportation
+	d) joiners
+	e) housing
+	f) math functions
